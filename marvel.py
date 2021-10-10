@@ -7,9 +7,9 @@ import hashlib
 # API Link
 url = "http://gateway.marvel.com/v1/public/characters?"
 # Public key (use your own)
-public_key = "3d841a427299ab59553e2072785a7de6"
+public_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # Private key (use your own)
-private_key = "bfd021ba167240818a0212094dcde76f71fb5026"
+private_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # Timestamp
 timestamp = "1"
 # Hash, is used in URL when getting the data
