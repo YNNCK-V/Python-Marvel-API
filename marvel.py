@@ -63,8 +63,8 @@ while True:
              # For each character's name that can be found, add row
             for each in data["data"]["results"][0]["series"]["items"]:
                 seriesTable.add_row([each["name"],])
-            
+                
             print(seriesTable)
-
+            
             # Legal stuff
             print("\n " + str(data["attributionText"]) + "\n ")
